@@ -1,5 +1,11 @@
 # Web-Development
 
+1. Simple Calculator -> https://github.com/KauanIzidoro/WEBcalculator
+2. Registration Form -> https://github.com/KauanIzidoro/basic_form
+3. Postfix and Prefix Calculator -> https://github.com/KauanIzidoro/Pos_Pre_calc
+4. ToDo Web -> https://github.com/KauanIzidoro/ToDo_Web
+5. INSS Calculator -> https://github.com/KauanIzidoro/inss_calc_web
+
 ## Topics Covered This Semester:
 1. HTML, CSS, and JavaScript;
 2. Building Pages with HTML;
